@@ -35,26 +35,18 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Operations Associate – BYJU’S",
+    location: "Bangalore, India",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019",
-  },
-  {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
-    description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "Created and optimized digital learning content while ensuring smooth academic operations across centers. Achieved 95% SLA compliance in customer query resolution and managed academic schedules to improve overall resource utilization.",
     icon: React.createElement(CgWorkAlt),
     date: "2019 - 2021",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Full-Stack Developer – Finkraft.ai",
+    location: "Bangalore, India",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      " Created and optimized digital learning content while ensuring smooth academic operations across centers. Achieved 95% SLA compliance in customer query resolution and managed academic schedules to improve overall resource utilization.",
     icon: React.createElement(FaReact),
     date: "2021 - present",
   },
@@ -62,23 +54,23 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Hair Care AI ",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "ScalpSense uses AI to analyze scalp images and quickly identify hair-fall patterns. It gives users personalized care suggestions to improve their hair health.",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "Manual GST Invoice Validation Pipeline",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+      "An automated pipeline that extracts and validates GST 2B invoices, supported by a simple web interface for manual review.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: rmtdevImg,
   },
   {
-    title: "Word Analytics",
+    title: "Recipe Sharing Platform",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "A simple platform to upload, search, and share recipes, with ingredient-based search and personalized favorites.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   },
@@ -90,18 +82,21 @@ export const skillsData = [
   "JavaScript",
   "TypeScript",
   "React",
-  "Next.js",
   "Node.js",
   "Git",
+  "GitHub",
+  "AWS",
+  "Docker",
+  "Firebase",
   "Tailwind",
   "Prisma",
   "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
   "Express",
   "PostgreSQL",
   "Python",
-  "Django",
+  "Database Design",
+  "Data Structures & Algorithms",
+  "MySQL",
+  "NoSQL",
   "Framer Motion",
 ] as const;

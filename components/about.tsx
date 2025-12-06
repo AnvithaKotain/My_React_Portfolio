@@ -19,21 +19,22 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        After completing my{" "}
+        <span className="font-medium">Master's in Computer Applications</span>, I
+        discovered my passion for building impactful digital solutions. Over the
+        years, I’ve developed strong skills in{" "}
+        <span className="font-medium">full-stack development</span>, working with
+        technologies like{" "}
+        <span className="font-medium">React, Python, JavaScript, Docker, and cloud platforms</span>.
+        <span className="italic"> My favorite part of development</span> is turning
+        complex challenges into clean, elegant solutions. I{" "}
+        <span className="underline">love</span> the process of breaking down a
+        problem, understanding it deeply, and bringing a thoughtful product to life.
+        I have experience building scalable applications, integrating APIs, and
+        deploying cloud-based systems, and I’m always excited to learn and explore
+        new technologies. I am currently seeking opportunities where I can grow and
+        contribute as a{" "}
+        <span className="font-medium">full-stack or backend developer</span>.
       </p>
 
       <p>
